@@ -1,4 +1,4 @@
-Jinja2==2.8
+Jinja2==2.11.3
 jupytext==1.7.1
 bokeh==2.2.3
 streamlit==0.72.0
